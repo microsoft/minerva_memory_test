@@ -1,0 +1,5 @@
+model_name: "gpt-4o"
+endpoint: "https://efficientai-sweden.openai.azure.com/"
+api_version: "2024-08-01-preview" # API version for Azure OpenAI
+client_id: "886bcda4-8bb6-4f23-b333-9b0cb7b32eec" # Your client ID for Azure openai authentication
+scope: "https://cognitiveservices.azure.com/.default"

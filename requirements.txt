@@ -1,0 +1,4 @@
+azure-identity
+openai
+tiktoken
+rouge_score

@@ -1,0 +1,5 @@
+model_name: "gpt-4o"
+endpoint: "https://xxxxx.openai.azure.com/" # Endpoint for Azure OpenAI
+api_version: "2024-08-01-preview" # API version for Azure OpenAI
+client_id: "xxxxxxx" # Your client ID for Azure openai authentication
+scope: "https://cognitiveservices.azure.com/.default"
