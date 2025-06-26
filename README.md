@@ -1,5 +1,5 @@
 # Introduction 
-This repository contains the code for the paper "Minerva: A Programmable Memory Test Benchmark for Language Models" [(PDF)]().
+This repository contains the code for the paper "Minerva: A Programmable Memory Test Benchmark for Language Models" [(PDF)](https://arxiv.org/abs/2502.03358).
 
 Minerva is a programmable benchmark designed for evaluating how effectively Large Language Models (LLMs) utilize their memory/context. The benchmark provides a structured way to assess various memory-related capabilities of LLMs.
 
