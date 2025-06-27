@@ -74,14 +74,13 @@ python src/run_test.py --task_dir ./memory_tests --result_dir ./results --task_n
 If you use Minerva in your research, please cite:
 
 ```
-@misc{xia2025minervaprogrammablememorytest,
-      title={Minerva: A Programmable Memory Test Benchmark for Language Models}, 
-      author={Menglin Xia and Victor Ruehle and Saravan Rajmohan and Reza Shokri},
-      year={2025},
-      eprint={2502.03358},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.03358}, 
+@inproceedings{
+xia2025minerva,
+title={Minerva: A Programmable Memory Test Benchmark for Language Models},
+author={Menglin Xia and Victor R{\"u}hle and Saravan Rajmohan and Reza Shokri},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=ib9drlZllP}
 }
 ```
 
